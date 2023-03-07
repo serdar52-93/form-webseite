@@ -1,0 +1,19 @@
+{
+  "name": "webseite",
+  "version": "1.0.0",
+  "description": "form webseite",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serdar52-93/form-webseite.git"
+  },
+  "author": "serdar sadikoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serdar52-93/form-webseite/issues"
+  },
+  "homepage": "https://github.com/serdar52-93/form-webseite#readme"
+}
